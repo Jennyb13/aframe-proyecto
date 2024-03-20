@@ -1,0 +1,11 @@
+Model Information:
+* title:	Daruma Doll
+* source:	https://sketchfab.com/3d-models/daruma-doll-546854f62b7c4a5790c93b8be00ffe0c
+* author:	May (https://sketchfab.com/miyaharu)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Daruma Doll" (https://sketchfab.com/3d-models/daruma-doll-546854f62b7c4a5790c93b8be00ffe0c) by May (https://sketchfab.com/miyaharu) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
